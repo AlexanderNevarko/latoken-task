@@ -1,0 +1,1 @@
+# LATOKEN test task
